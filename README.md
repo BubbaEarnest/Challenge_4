@@ -12,7 +12,7 @@ Overview of the assignment.
 ## Installation Guide
 To install a module, run the following code:
 
-  pip install <module_name>
+    pip install <module_name>
 
 ## Summary of Results
 Summary.
