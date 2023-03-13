@@ -20,4 +20,4 @@ To install a module, run the following code:
 
 ## Summary of Results
 Summary.
-compaired diffrent funds to analize risk-return
+-compaired diffrent funds to analize risk-return
