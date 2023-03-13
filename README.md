@@ -3,6 +3,10 @@
 ## Overview
 Overview of the assignment.
 
+## Files/Folders
+- app.ipynb file
+- Resources Folder
+
 ## Technologies Used
 - pandas
 - numpy
