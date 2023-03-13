@@ -7,7 +7,7 @@ Overview of the assignment.
 - pandas
 - numpy
 - pathlib
--matplotlib
+- matplotlib
 
 ## Installation Guide
 To install a module, run the following code:
